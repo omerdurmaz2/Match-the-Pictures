@@ -1,0 +1,9 @@
+C:\Users\omerd\source\repos\Resim_Eslestirme\Resim_Eslestirme\bin\Debug\Resim_Eslestirme.exe.config
+C:\Users\omerd\source\repos\Resim_Eslestirme\Resim_Eslestirme\bin\Debug\Resim_Eslestirme.exe
+C:\Users\omerd\source\repos\Resim_Eslestirme\Resim_Eslestirme\bin\Debug\Resim_Eslestirme.pdb
+C:\Users\omerd\source\repos\Resim_Eslestirme\Resim_Eslestirme\obj\Debug\Resim_Eslestirme.csprojAssemblyReference.cache
+C:\Users\omerd\source\repos\Resim_Eslestirme\Resim_Eslestirme\obj\Debug\Resim_Eslestirme.Form1.resources
+C:\Users\omerd\source\repos\Resim_Eslestirme\Resim_Eslestirme\obj\Debug\Resim_Eslestirme.Properties.Resources.resources
+C:\Users\omerd\source\repos\Resim_Eslestirme\Resim_Eslestirme\obj\Debug\Resim_Eslestirme.csproj.GenerateResource.cache
+C:\Users\omerd\source\repos\Resim_Eslestirme\Resim_Eslestirme\obj\Debug\Resim_Eslestirme.exe
+C:\Users\omerd\source\repos\Resim_Eslestirme\Resim_Eslestirme\obj\Debug\Resim_Eslestirme.pdb
